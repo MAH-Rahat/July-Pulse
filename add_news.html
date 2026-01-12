@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add News - July Pulse</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <h1 class="site-title">July Pulse</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html" id="home">Home</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+    <div id="content">
+        <h2>Add News Article</h2>
+        <form id="article-form">
+            <label for="title">Title:</label>
+            <input type="text" id="title" name="title" required>
+            
+            <label for="image">Image URL:</label>
+            <input type="text" id="image" name="image" required>
+            
+            <label for="content">Content:</label>
+            <textarea id="content" name="content" rows="5" required></textarea>
+            
+            <button type="submit" class="submit-button">Submit</button>
+        </form>
+    </div>
+    
+    <footer>
+        <p>&copy; 2023 July Pulse</p>
+    </footer>
+    
+    <script src="add_news.js"></script>
+</body>
+</html>

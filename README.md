@@ -47,8 +47,3 @@ This project was built using a mix of front-end and back-end technologies:
 
 ## 📸 Project Preview
 <img width="959" height="452" alt="{2A9C394D-C444-4787-900F-A14A8D188434}" src="https://github.com/user-attachments/assets/e2676de6-df1f-4eb5-a4d5-e5e4f191f6e2" />
-
-![July Pulse Interface](assets/image_ac3523.jpg)
-
----
-ulse.git](https://github.com/your-username/july-pulse.git)
